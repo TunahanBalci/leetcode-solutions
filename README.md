@@ -31,10 +31,4 @@ Each file is named according to the problem it solves, and contains:
 - Improve time and space complexity awareness
 - Prepare for technical interviews
 - Build a habit of daily coding
-- Learn principle differences between programming languages
-
-## 📬 Contact
-
-If you want to collaborate or ask about a specific solution, feel free to open an issue or contact me.
-
-Happy coding! 🧠✨
+- Learn principle differences between programming lang
